@@ -13,5 +13,12 @@ public class StudentDetails {
 	private void StudentAddress() {
 		System.out.println("Student Address:chennai");
 	}
+	public static void main(String[] args) {
+		StudentDetails s = new StudentDetails();
+		s.StudentName();
+		s.StudentID();
+		s.StudentAddress();
+		
+	}
 
 }
