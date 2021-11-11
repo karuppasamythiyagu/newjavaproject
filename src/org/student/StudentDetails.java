@@ -13,6 +13,10 @@ public class StudentDetails {
 	private void StudentAddress() {
 		System.out.println("Student Address:chennai");
 	}
+	private void studentDOB() {
+		System.out.println("Student DOB:July-01-1997");
+
+	}
 	public static void main(String[] args) {
 		StudentDetails s = new StudentDetails();
 		s.StudentName();
