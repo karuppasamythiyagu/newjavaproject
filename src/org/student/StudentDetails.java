@@ -5,12 +5,19 @@ public class StudentDetails {
 		System.out.println("Student NAme:Karan");
 
 	}
+
 	private void StudentID() {
 		System.out.println("Student ID ME123");
 
 	}
+
 	private void StudentAddress() {
 		System.out.println("Student Address:chennai");
+	}
+
+	private void studentDOB() {
+		System.out.println("Student DOB:July-01-1997");
+
 	}
 
 	private void studentBloodGroup() {
